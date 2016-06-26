@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "macOS - Toolbox"
 title_separator          : "-"
-name                     : "Ralphg Goestnmeier"
-description              : "Tipps and Tricls around macOS."
+name                     : "Ralphg Goestenmeier"
+description              : "Tipps and Tricks around macOS."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
