@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "macOS - Toolbox"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Ralphg Goestnmeier"
+description              : "Tipps and Tricls around macOS."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : r14r
 facebook:
   username               :
   app_id                 :
@@ -63,9 +63,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ralph Göstenmeier"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "I am developer, architect, human."
   location         : "Somewhere"
   email            :
   uri              :
